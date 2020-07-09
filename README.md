@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a cyber designer moving squares on the world wide web. <br>
+Trying to figure out if designers should code or not.
+
 <!--
 **lucaslsf/lucaslsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
